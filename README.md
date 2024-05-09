@@ -31,9 +31,15 @@ git clone https://github.com/piyushptiwari/SQL_Database_LLM.git
 2-Set environment variables for database connectivity and API keys:
 Bash
 export OPENAI_API_KEY=your_openai_api_key
+
 export SERPAPI_API_KEY=your_serpapi_api_key (optional)
+
 export DB_USER=your_db_user
+
 export DB_PASSWORD=your_db_password
+
 export DB_HOST=your_db_host
+
 export DB_PORT=your_db_port
+
 export DB_NAME=your_db_name
